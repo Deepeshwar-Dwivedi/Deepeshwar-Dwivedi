@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Deepeshwar Dwivedi</h1>
 <h3 align="center">A passionate Web developer from India</h3>
-<img align="right" alt="coding" width="400px" src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw2qDZMsWk4C63e3DNC-tRh7&ust=1751345057135000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMDk7oermI4DFQAAAAAdAAAAABAE](https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966)">
+<img align="right" alt="coding" width="400px" src[="">](https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepeshwar-dwivedi&label=Profile%20views&color=0e75b6&style=flat" alt="deepeshwar-dwivedi" /> </p>
 
